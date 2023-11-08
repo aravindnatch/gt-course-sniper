@@ -1,0 +1,5 @@
+db/*.sqlite
+snipers/
+tools/
+.env
+monitors/betalog.txt
